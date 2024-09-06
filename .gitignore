@@ -1,0 +1,33 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment folder
+venv/
+.env/
+ENV/
+env.bak/
+venv.bak/
+
+# pipenv and poetry files
+Pipfile
+Pipfile.lock
+poetry.lock
+
+# PyInstaller
+# Usually contains the Python script name followed by .spec
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
